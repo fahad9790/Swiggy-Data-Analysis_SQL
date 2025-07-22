@@ -1,7 +1,7 @@
 # Swiggy_Sql_Project 
 # Swiggy Data Analysis - A Food Delivery Company
 
-![Alt text](https://github.com/fahad9790/Swiggy-Data-Analysis_SQL/blob/main/swiggy-logo%20(1).png)))
+![Alt text](https://github.com/fahad9790/Swiggy-Data-Analysis_SQL/blob/main/swiggy-logo%20(1).png)
 
 
 ## Overview
