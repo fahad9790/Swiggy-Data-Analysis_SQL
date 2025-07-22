@@ -16,7 +16,7 @@ This project demonstrates my SQL problem-solving skills through the analysis of 
 - **Stored Procedure:** Creating Stored Procedures
 
 ## ERD
-![ERD](https://github.com/Mahesh9679/Swiggy_Sql_Project/blob/main/ER_Diagram.png)
+![ERD]([https://github.com/Mahesh9679/Swiggy_Sql_Project/blob/main/ER_Diagram.png](https://github.com/fahad9790/Swiggy-Data-Analysis_SQL/blob/main/ER_Diagram.png))
 
 ## Database Setup
 ```sql
